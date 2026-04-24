@@ -91,10 +91,6 @@ Date: 24-04-2026
 
 -Use Guest Name field separately if you want to store names.
 
-Links:
-LinkedIn (linkedin.com in Bing)
-
-GitHub (github.com in Bing)
 
 
 
